@@ -1,3 +1,4 @@
 # Time Travel Prep
 
-- Find material with negative mass
+- Find matterial with positive mass
+- Buy a Mazzerati
